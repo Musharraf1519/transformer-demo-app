@@ -47,7 +47,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-📸 Screenshots
+## 📸 Screenshots
 Home Page
 
 Sentiment Analysis
@@ -59,13 +59,9 @@ Image Classification
 (Replace the placeholders with your actual screenshots in the assets/ folder)
 
 
-<b>👨‍💻 Author</b>
+## 👨‍💻 Author
 
 <b>Musharraf Hussain Khan</b><br>
-GitHub: https://github.com/Musharraf1519
+[GitHub](https://github.com/Musharraf1519)<br>
+[LinkedIn](https://www.linkedin.com/in/musharraf-hussain-khan/)<br>
 Email: musharrafhussainkhann@example.com
-
-🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
