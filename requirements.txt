@@ -1,0 +1,24 @@
+# Streamlit for the web app UI
+streamlit==1.29.0
+
+# Hugging Face Transformers for NLP & CV models
+transformers==4.43.0
+
+# PyTorch and torchvision for model execution and image pipelines
+torch==2.1.0
+torchvision==0.16.0
+
+# Pillow for handling images
+Pillow==10.0.0
+
+# SentencePiece for some translation models
+sentencepiece==0.1.99
+
+# Tokenizers for faster text tokenization
+tokenizers==0.14.3
+
+# Requests for downloading models from Hugging Face
+requests==2.31.0
+
+# NumPy, used internally by torch and transformers
+numpy==1.26.0

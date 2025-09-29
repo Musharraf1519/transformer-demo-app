@@ -50,11 +50,16 @@ streamlit run app.py
 ---
 
 ## 📸 Screenshots
-Home Page
+![Home Page](Home.png)
 
-Sentiment Analysis
+
+![Sentiment Analysis](Sentiment_Analysis.png)
 
 Text Generation
+
+Summarizer
+
+Machine Translator
 
 Image Classification
 
