@@ -47,6 +47,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+---
+
 ## 📸 Screenshots
 Home Page
 
@@ -58,6 +60,8 @@ Image Classification
 
 (Replace the placeholders with your actual screenshots in the assets/ folder)
 
+
+---
 
 ## 👨‍💻 Author
 
