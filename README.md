@@ -46,3 +46,26 @@ pip install -r requirements.txt
 ```cmd
 streamlit run app.py
 ```
+
+📸 Screenshots
+Home Page
+
+Sentiment Analysis
+
+Text Generation
+
+Image Classification
+
+(Replace the placeholders with your actual screenshots in the assets/ folder)
+
+
+👨‍💻 Author
+
+Musharraf Hussain Khan
+GitHub: https://github.com/Musharraf1519
+Email: musharrafhussainkhann@example.com
+
+🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
