@@ -68,7 +68,7 @@ streamlit run app.py
 ![Image Classification](Classification.png)
 
 
-(Replace the placeholders with your actual screenshots in the assets/ folder)
+![About](About.png)
 
 
 ---
