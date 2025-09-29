@@ -59,9 +59,9 @@ Image Classification
 (Replace the placeholders with your actual screenshots in the assets/ folder)
 
 
-👨‍💻 Author
+<b>👨‍💻 Author</b>
 
-Musharraf Hussain Khan
+<b>Musharraf Hussain Khan</b><br>
 GitHub: https://github.com/Musharraf1519
 Email: musharrafhussainkhann@example.com
 
