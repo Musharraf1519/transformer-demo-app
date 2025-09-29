@@ -2,6 +2,8 @@
 
 A **Streamlit web app** showcasing the power of **Transformer-based models** for **NLP** and **Computer Vision** using 🤗 Hugging Face.  
 
+---
+
 ## 🚀 Features  
 - 📊 **Sentiment Analysis** → Detect emotions (Positive / Negative / Neutral) in text.  
 - 📝 **Text Generation** → Generate creative text with GPT-2.  
@@ -21,17 +23,22 @@ A **Streamlit web app** showcasing the power of **Transformer-based models** for
 ## 📦 Installation  
 
 1️⃣ Clone the repository  
+
 ```bash
 git clone https://github.com/your-username/transformer-demo-app.git
 cd transformer-demo-app
+```
 
 2️⃣ Create a virtual environment (recommended)
-```bash
+
+**Windows (Command Prompt / PowerShell):**
+```cmd
 python -m venv venv
-source venv/bin/activate   # On Linux/Mac
-venv\Scripts\activate      # On Windows
+venv\Scripts\activate
+```
 
 3️⃣ Install dependencies
+
 pip install -r requirements.txt
 
 ▶️ Run the App
