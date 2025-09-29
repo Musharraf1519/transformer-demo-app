@@ -38,8 +38,11 @@ venv\Scripts\activate
 ```
 
 3️⃣ Install dependencies
-
+```cmd
 pip install -r requirements.txt
+```
 
 ▶️ Run the App
+```cmd
 streamlit run app.py
+```
