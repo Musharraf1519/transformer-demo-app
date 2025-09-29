@@ -55,13 +55,18 @@ streamlit run app.py
 
 ![Sentiment Analysis](Sentiment_Analysis.png)
 
-Text Generation
 
-Summarizer
+![Text Generation](Generation.png)
 
-Machine Translator
 
-Image Classification
+![Summarizer](Summarizer.png)
+
+
+![Machine Translator](Translator.png)
+
+
+![Image Classification](Classification.png)
+
 
 (Replace the placeholders with your actual screenshots in the assets/ folder)
 
