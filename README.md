@@ -1,4 +1,4 @@
-# 🧠 Transformer Demo App  
+# 🧠 TransformerLab – A Unified Transformer Demo for NLP & Vision
 
 A **Streamlit web app** showcasing the power of **Transformer-based models** for **NLP** and **Computer Vision** using 🤗 Hugging Face.  
 
